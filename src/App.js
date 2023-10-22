@@ -1,8 +1,11 @@
 import React from 'react'
 import './App.css'
+import Quiz from './pages/Quiz'
 
 export default function App() {
   return (
-    <div>App</div>
+    <div>
+      <Quiz/>
+    </div>
   )
 }
