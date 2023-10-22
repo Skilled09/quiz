@@ -4,7 +4,7 @@ import Quiz from './pages/Quiz'
 
 export default function App() {
   return (
-    <div>
+    <div className='bigBox'>
       <Quiz/>
     </div>
   )
